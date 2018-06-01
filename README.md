@@ -1,1 +1,3 @@
 # docker-rubocop
+
+Dockerized RuboCop 👮
