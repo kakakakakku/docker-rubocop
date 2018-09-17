@@ -5,6 +5,13 @@
 
 Dockerized RuboCop 👮
 
+## Usage
+
+```sh
+$ docker pull kakakakakku/rubocop
+$ docker run kakakakakku/rubocop *.rb
+```
+
 ## Supported versions
 
 - v0.55.0
