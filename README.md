@@ -15,7 +15,8 @@ $ docker run kakakakakku/rubocop *.rb
 ## Supported versions
 
 - v0.55.0
-- v0.56.0
+- v0.56.0 (latest)
 - v0.58.2
 - v0.59.1
-- v0.61
+- v0.61.0
+- v0.62.0
