@@ -20,3 +20,4 @@ $ docker run kakakakakku/rubocop *.rb
 - v0.59.1
 - v0.61.0
 - v0.62.0
+- v0.68.0
