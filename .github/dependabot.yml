@@ -1,0 +1,26 @@
+version: 2
+updates:
+- package-ecosystem: docker
+  directory: "/v0.59.1"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+- package-ecosystem: docker
+  directory: "/v0.58.2"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+- package-ecosystem: docker
+  directory: "/v0.56.0"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+- package-ecosystem: docker
+  directory: "/v0.55.0"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
